@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abhijeet@gmail.com**
 
-- ⚡ Fun fact **I also produce music in and love discussing Indian polity and economics**
+- ⚡ Fun fact **I also produce music sometimes and love discussing Indian polity and economics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
