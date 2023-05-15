@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **ReactJS, NodeJS, Express, Firebase**
 
-- 📫 How to reach me **abhijeet@gmail.com**
+- 📫 How to reach me **abhijeet1862@gmail.com**
 
 - ⚡ Fun fact **I also produce music sometimes and love discussing Indian polity and economics**
 
