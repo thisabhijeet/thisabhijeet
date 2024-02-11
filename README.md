@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Tiwari</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Golang, gRPC, Redis and Kafka**
 
 - 💬 Ask me about **ReactJS, NodeJS, Express, Firebase**
 
